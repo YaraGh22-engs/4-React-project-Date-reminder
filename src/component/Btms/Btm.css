@@ -1,0 +1,4 @@
+.btns-y {
+  display: flex;
+  justify-content: space-between;
+}

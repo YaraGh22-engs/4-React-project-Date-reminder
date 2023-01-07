@@ -1,0 +1,26 @@
+.avatar {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  padding: 5px;
+}
+.cards {
+  height: 600px;
+  border-radius: 15px;
+  background-color: aliceblue;
+  box-shadow: 1px 4px 4px 1px rgba(85, 85, 85, 0.25);
+}
+.one-card {
+  display: flex;
+  border-bottom: 1px solid rgb(158, 150, 150);
+  margin: 8px;
+}
+.date {
+  font-size: small;
+}
+.text {
+  padding: 10px 10px;
+}
+.cen {
+  padding-top: 65px;
+}
